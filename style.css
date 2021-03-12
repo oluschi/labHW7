@@ -1,0 +1,43 @@
+img{
+	size: 65%;
+	max-height: 250px;
+	max-width: 60%;
+	border: dotted, white;
+}
+
+.body{
+  margin: auto;
+  width: 55%;
+  padding: 25px;
+}
+
+.body :hover{
+	border-color: white;
+}
+
+p {
+	color: #FFFFFF;
+	font-family: Cooper Std;
+	font-size: 50px;
+	font-family:;
+	text-align: center;
+	margin-top:-5px;
+	text-decoration: underline;
+}
+
+.transparent{
+	opacity: 60%;
+
+}
+
+.sixties {
+	
+}
+.sza  {
+	
+}
+
+
+.fashion {
+
+}
